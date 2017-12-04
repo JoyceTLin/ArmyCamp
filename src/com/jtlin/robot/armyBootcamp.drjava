@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file name="MyBot.java" package="jtlin.robot" timestamp="14-Nov-2017 20:05:33">
+        <select from="0" to="579"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Driller.java" package="jtlin.robot" timestamp="14-Nov-2017 20:35:15">
+        <select from="0" to="579"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Movement.java" package="jtlin.robot" timestamp="14-Nov-2017 20:11:06">
+        <select from="0" to="579"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Army.java" package="jtlin.robot" timestamp="14-Nov-2017 20:09:56">
+        <select from="0" to="579"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Partner.java" package="jtlin.robot" timestamp="14-Nov-2017 21:06:59">
+        <select from="0" to="579"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="LBot.java" package="jtlin.robot" timestamp="14-Nov-2017 21:07:00">
+        <select from="0" to="579"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="PeaceBot.java" package="jtlin.robot" timestamp="14-Nov-2017 21:15:13">
+        <select from="0" to="579"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../../karel-JoyceTLin/lib/hamcrest-core-1.3.jar"/>
+      <file absolute="false" name="../../karel-JoyceTLin/lib/junit-4.12.jar"/>
+      <file absolute="false" name="../../karel-JoyceTLin/lib/KarelJRobot.jar"/>
+      <file absolute="false" name="../../karel-JoyceTLin/lib/kareluniverse.jar"/>
+      <file absolute="false" name="../../karel-JoyceTLin/lib/tools.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
